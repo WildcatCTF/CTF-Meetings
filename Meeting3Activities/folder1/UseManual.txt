@@ -1,1 +1,6 @@
-Close but no cigar.
+Print out the permissions of these files and then write them
+down in the flag.
+
+Like:
+
+flag<-xxx-xxx-xxx>
